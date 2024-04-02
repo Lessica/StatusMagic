@@ -71,12 +71,12 @@
 		25230F65298B34700003C113 /* Exploit */ = {
 			isa = PBXGroup;
 			children = (
-				25230F66298B34700003C113 /* vm_unaligned_copy_switch_race.c */,
-				25230F67298B34700003C113 /* grant_full_disk_access.m */,
-				25230F68298B34700003C113 /* helpers.m */,
-				25230F69298B34700003C113 /* vm_unaligned_copy_switch_race.h */,
-				25230F6A298B34700003C113 /* helpers.h */,
 				25230F6B298B34700003C113 /* grant_full_disk_access.h */,
+				25230F67298B34700003C113 /* grant_full_disk_access.m */,
+				25230F6A298B34700003C113 /* helpers.h */,
+				25230F68298B34700003C113 /* helpers.m */,
+				25230F66298B34700003C113 /* vm_unaligned_copy_switch_race.c */,
+				25230F69298B34700003C113 /* vm_unaligned_copy_switch_race.h */,
 			);
 			path = Exploit;
 			sourceTree = "<group>";

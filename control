@@ -1,0 +1,9 @@
+Package: com.avangelista.statusmagic
+Name: StatusMagic
+Version: 1.0.2
+Section: Applications
+Depends: firmware (>= 14.0)
+Architecture: iphoneos-arm
+Author: Avangelista <41681154+Avangelista@users.noreply.github.com>
+Maintainer: Avangelista <41681154+Avangelista@users.noreply.github.com>
+Description: Totally customise your status bar.
